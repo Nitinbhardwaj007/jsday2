@@ -1,0 +1,28 @@
+DAY2 JavaScript:
+Ques:-What are the differences between var, let and const?
+Ans:-These three are use to assign value in variable  where as
+var and let create variables that can be reassigned another value. 
+Var not in commonly used.
+const creates constant variables that cannot be reassigned another value.
+
+Ques:-Difference between undefined vs not defined vs NaN
+Ans:-undefined is a value that can be assigned to a variable.
+NaN - NaN stands for Not a Number.
+Not defined indicates that a variable does not exist.
+When any variable isn't did not  produce a meaningful value, it returns undefined. 
+
+Ques:-what is difference between null and undefined and where to use what?
+Ans:-Null in JavaScript means an empty value . The variable as null contains no value. 
+In obj we use null
+Undefined means the variable has been declared, but its value has not been assigned.
+In num,String we use undefined
+
+
+Ques:-what is execution context?
+Ans:-When the JavaScript engine scans a script file, it makes an environment called the Execution Context that handles the entire transformation and execution of the code
+
+Ques:-What is use of prompt in JavaScript? 
+Ans:-using prompt in js to display a dialog box with an optional message prompting the user to input some text. It is often used if the user wants to input a value before entering a page.
+
+Ques:-Why JavaScript is Dyanmic Language?
+Ans:-javascript is a dynamic language because in that  data types of variables are determined by the value they hold at runtime and can change throughout the program as we assign different values to them
